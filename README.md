@@ -1,4 +1,4 @@
-# LeetCode-challenges
+# LeetCode Challenges 💻
 LeetCode problems and solutions in C++
 
 ## Medium problems
