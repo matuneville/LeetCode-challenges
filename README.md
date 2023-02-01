@@ -6,7 +6,7 @@ LeetCode problems and solutions in C++
   - [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) & [Solution](https://github.com/matuneville/LeetCode-challenges/blob/main/FindFirstAndLastPositionFfElementinSortedArray.cpp)
   - Time Complexity: O(n log(n))
   
- - **Challenge 223**: *Compute Area*
+- **Challenge 223**: *Compute Area*
   - [Problem](https://leetcode.com/problems/rectangle-area/) & [Solution](https://github.com/matuneville/LeetCode-challenges/blob/main/RectangleArea.cpp)
   - Time Complexity: O(1)
 
