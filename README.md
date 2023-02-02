@@ -1,5 +1,5 @@
 # LeetCode Challenges 💻
-LeetCode problems and solutions in C++
+LeetCode problems and solutions in C++. All algorithms are coded with the best possible time complexity.
 
 ## Medium problems
 - **Challenge 34**: *Find First and Last Position of Element in Sorted Array*
