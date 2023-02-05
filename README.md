@@ -9,6 +9,10 @@ LeetCode problems and solutions in C++. All algorithms are coded with the best p
 - **Challenge 48**: *Rotate Image*
   - [Problem](https://leetcode.com/problems/rotate-image/) & [Solution](https://github.com/matuneville/LeetCode-challenges/blob/main/RotateImage.cpp)
   - Time Complexity: O(n^2) or O(M)
+  
+- **Challenge 50**: *Binary Exponentiation*
+  - [Problem](https://leetcode.com/problems/powx-n/) & [Solution](https://github.com/matuneville/LeetCode-challenges/blob/main/BinaryExponentiation.cpp)
+  - Time Complexity: O(log(n))
 
 - **Challenge 204**: *Sieve of Eratosthenes*
   - [Problem](https://leetcode.com/problems/count-primes/) & [Solution](https://github.com/matuneville/LeetCode-challenges/blob/main/SieveOfEratosthenes.cpp)
